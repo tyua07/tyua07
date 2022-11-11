@@ -1,21 +1,16 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">我是一个开源爱好者，做开发差不多已经  11 年了，现在居住在湖南长沙。之前大多数技术栈都是 WEB 相关，2020 后开始专注爬虫和  Web 3.0 ，之前服务过可口可乐、嘉实多、百胜中国，现在专注持续创业，保持终生学习。</div>  
-  
 
 - 🔭 我正在研究 [指纹浏览器](https://github.com/tyua07/FP-Browser-Public)
 - 🌱 我实际创业的方向： Go、Web 3.0 和网络协议相关
 
-<br/>  
-
+<br/> 
 
 ## 我使用的技术栈
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
