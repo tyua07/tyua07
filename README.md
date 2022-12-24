@@ -5,7 +5,7 @@
 ### <div align="center">我是一个开源爱好者，做开发差不多已经  11 年了，现在居住在湖南长沙。之前大多数技术栈都是 WEB 相关，2020 后开始专注爬虫和  Web 3.0 ，之前服务过可口可乐、嘉实多、百胜中国，现在专注持续创业，保持终生学习。</div>  
 
 - 🔭 我正在研究 [指纹浏览器](https://github.com/tyua07/FP-Browser-Public)
-- 🌱 我实际创业的方向： Go、Web 3.0 和网络协议相关
+- 🌱 我实际创业的方向： Web 3.0 和网络协议相关
 
 <br/> 
 
@@ -88,6 +88,7 @@
 ## 指纹浏览器相关项目
 [![FP-Browser-Public 浏览器底层动态注入](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Public)](https://github.com/tyua07/FP-Browser-Public)
 [![FP-Browser-SDK 浏览器属性注入参数 SDK](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-SDK)](https://github.com/tyua07/FP-Browser-SDK)
-[![FP-Browser-Test 指纹浏览器全部选项的测试用例](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Test)](https://github.com/tyua07/FP-Browser-Test)
+[![FP-Browser-Test 指纹浏览器（For Android）全部选项的测试用例](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Test)](https://github.com/tyua07/FP-Browser-Test)
+[![FP-Browser-Windows-Test 指纹浏览器（For Windows）全部选项的测试用例](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Windows-Test)](https://github.com/tyua07/FP-Browser-Windows-Test)
 [![FP-Browser-Detect 浏览器属性检测](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Detect)](https://github.com/tyua07/FP-Browser-Detect)
 
