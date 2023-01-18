@@ -86,10 +86,10 @@
 <br/>  
 
 ## 指纹浏览器相关项目
-[![FP-Browser-Public 浏览器底层动态注入](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Public)](https://github.com/tyua07/FP-Browser-Public)
-[![FP-Browser-Windows-Public 免费公开的 Windows 端指纹浏览器](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Windows-Public)](https://github.com/tyua07/FP-Browser-Windows-Public)
-[![FP-Browser-SDK 浏览器属性注入参数 SDK](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-SDK)](https://github.com/tyua07/FP-Browser-SDK)
-[![FP-Browser-Detect 浏览器属性检测](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Detect)](https://github.com/tyua07/FP-Browser-Detect)
-[![FP-Browser-Test 指纹浏览器（For Android）全部选项的测试用例](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Test)](https://github.com/tyua07/FP-Browser-Test)
-[![FP-Browser-Windows-Test 指纹浏览器（For Windows）全部选项的测试用例](https://github-readme-stats-jdt8hzqgt-tyua07.vercel.app/api/pin/?username=tyua07&repo=FP-Browser-Windows-Test)](https://github.com/tyua07/FP-Browser-Windows-Test)
+* [FP-Browser-Detect 浏览器属性检测](https://github.com/tyua07/FP-Browser-Detect)
+* [FP-Browser-SDK 浏览器属性注入参数 SDK](https://github.com/tyua07/FP-Browser-SDK)
+* [FP-Browser-Public 指纹浏览器（For Android）免费公开项目](https://github.com/tyua07/FP-Browser-Public) 
+* [FP-Browser-Test 指纹浏览器（For Android）全部选项的测试用例](https://github.com/tyua07/FP-Browser-Test)
+* [FP-Browser-Windows-Test 指纹浏览器（For Windows）全部选项的测试用例](https://github.com/tyua07/FP-Browser-Windows-Test)
+* [FP-Browser-Windows-Public 指纹浏览器（For Windows）免费公开项目](https://github.com/tyua07/FP-Browser-Windows-Public)
 
